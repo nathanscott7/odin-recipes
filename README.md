@@ -1,2 +1,2 @@
 # odin-recipes
-Odin test recipe site
+Recipes site for Odin project, cementing skills on how to use Git etc
